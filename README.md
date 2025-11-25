@@ -32,4 +32,4 @@ Aquí están las tecnologías y lenguajes con los que trabajo y me estoy especia
 ### 📬 Conéctate Conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-malaspina-3b708830b/)
-[![Email]: Lucasmalaspin13@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmalaspin13@gmail.com)
